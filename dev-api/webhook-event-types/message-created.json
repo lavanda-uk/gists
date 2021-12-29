@@ -1,0 +1,18 @@
+{
+  "event_type": "host_message_added",
+  "data": {
+    "attachments": [
+      {
+        "url": "https://lavanda.azure-api.net/media/gpv0ie8a2stKK4ouXBOIKo3yNO12hM2MwxIFYbtV6MI/download"
+      }
+    ],
+    "body": "Thank you for your booking!",
+    "booking_id": "nBUMvKS3mDK8Z2ALoE6GP4M4nAXKIbTGXq7adnRgQNs",
+    "id": "message-id",
+    "html_body": "Thank you for your booking!",
+    "sent_at": "2019-12-21T013950Z",
+    "sent_by_guest": false,
+    "status": "completed",
+    "subject": "You have a new message"
+  }
+}

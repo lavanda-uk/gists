@@ -1,0 +1,42 @@
+
+{
+  "event_type": "booking_confirmed",
+  "data": {
+    "booked_time": "2021-09-08T10:48:43+00:00",
+    "canceled": false,
+    "confirmation_code": "V0rCmYwbMdp7aWa",
+    "check_in_time": "02:00",
+    "check_out_time": "02:30",
+    "currency": "GBP",
+    "end_date": "2021-10-12",
+    "last_modified": "2021-10-08T17:23:37+00:00",
+    "lead_guest_first_name": "John",
+    "lead_guest_last_name": "Doe",
+    "lead_guest_email": "user@getlavanda.com",
+    "lead_guest_phone_number": "000000000",
+    "guest_email_addresses": [
+      {
+        "email": "user@getlavanda.com",
+        "primary": true
+      }
+    ],
+    "guest_phone_numbers": [
+      {
+        "number": "000000000",
+        "primary": true
+      }
+    ],
+    "id": "nZgKDASo4BkeuIZi5V0rCmYwbMdp7aWax36d6sas57",
+    "messaging_mode": "direct_to_guest",
+    "notes": "Booking notes",
+    "number_of_guests": 1,
+    "property_id": "fDlZDrkD2KxHlPhK33XhRfq9XDrJNWK34mwbeti43UY",
+    "source": "Airbnb",
+    "start_date": "2021-10-11",
+    "status": "confirmed",
+    "total_cost": 100,
+    "total_days": 1,
+    "vetting_status": "Passed",
+    "unit_id": "fDlZDrkD2KxHlPhK33Xh9478asffdiTS36"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "event_type:": "property_updated",
+  "data:": {
+    "address:": {
+      "city:": "London",
+      "country:": "United Kingdom",
+      "country_code:": "UK",
+      "lat:": 51.55581,
+      "lng:": -0.27955,
+      "post_code:": "HA9 0BU",
+      "region:": "London",
+      "street1:": "Wembley Stadium, Royal Route",
+      "street2:": "London Borough of Brent"
+    },
+    "amenities:": [
+      {
+        "name:": "heating",
+        "type:": "basic"
+      },
+      {
+        "name:": "iron",
+        "type:": "basic"
+      },
+      {
+        "name:": "shampooAndToiletries",
+        "type:": "basic"
+      },
+      {
+        "name:": "towelsAndBedLinen",
+        "type:": "basic"
+      },
+      {
+        "name:": "wifi",
+        "type:": "basic"
+      },
+      {
+        "name:": "coffeeMaker",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "dishwasher",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "freezer",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "fridge",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "microwave",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "oven",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "toaster",
+        "type:": "kitchen"
+      },
+      {
+        "name:": "washingMachine",
+        "type:": "additional"
+      },
+      {
+        "name:": "bluetoothSpeaker",
+        "type:": "platformSpecific"
+      },
+      {
+        "name:": "chairs",
+        "type:": "platformSpecific"
+      }
+    ],
+    "approximate_annual_available_nights:": 0,
+    "basic_pricing:": {
+      "currency_code:": "GBP",
+      "default_rate:": 297,
+      "maximum_rate:": 297,
+      "minimum_rate:": 297,
+      "monthly_discount:": 0,
+      "weekend_rate:": 297,
+      "weekly_discount:": 0
+    },
+    "beds:": [
+      {
+        "room:": "Bedroom",
+        "type:": "queen"
+      },
+      {
+        "room:": "Bedroom",
+        "type:": "double"
+      }
+    ],
+    "booking_policy:": {
+      "check_in_time:": "15:00",
+      "check_out_time:": "10:00",
+      "house_rules:": "No smoking or parties.",
+      "minimum_night_stay:": 3,
+      "minimum_booking_age:": 25,
+      "parties_allowed:": false,
+      "pets_allowed:": true,
+      "smoking_allowed:": false,
+      "suitable_for_children:": false,
+      "suitable_for_elderly:": false,
+      "suitable_for_infants:": false
+    },
+    "code:": "example-property",
+    "cover_image:": null,
+    "created_at:": "2020-09-25T15:36:49.628Z",
+    "dedicated_rental:": true,
+    "default_availability:": {
+      "available:": true
+    },
+    "features:": [ ],
+    "hkus:": "0.0",
+    "id:": "nZgKDASo4BkeuIZi5V0rCmYwbMdp7aWax36d6sas57",
+    "license:": null,
+    "location_description:": "Wembley is known as the location of Wembley Stadium, the home of the England national football team and the largest stadium by capacity in the UK.",
+    "keynest:": {
+      "guest_self_check_in:": false,
+      "guest_set_keys:": null,
+      "lockbox_address:": {
+        "city:": null,
+        "country:": null,
+        "country_code:": null,
+        "lat:": null,
+        "lng:": null,
+        "post_code:": null,
+        "region:": null,
+        "street1:": null,
+        "street2:": null
+      },
+      "lockbox_code:": null,
+      "remote_key_management_address:": {
+        "city:": null,
+        "country:": null,
+        "country_code:": null,
+        "lat:": null,
+        "lng:": null,
+        "post_code:": null,
+        "region:": null,
+        "street1:": null,
+        "street2:": null
+      },
+      "remote_key_management_opening_hours:": null,
+      "total_set_keys:": null
+    },
+    "marketing_description:": "Awesome Example Property Description",
+    "marketing_title:": "Example Property",
+    "max_occupants:": 4,
+    "media_items:": [ ],
+    "number_of_bathrooms:": 2,
+    "number_of_bedrooms:": 2,
+    "procedures:": [
+      {
+        "title:": "Housekeeping Hotspots",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Quirks",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Guest Checkout",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Wifi",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Access",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Guest Clean",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Waste",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      },
+      {
+        "title:": "Exit",
+        "checklist_items:": [ ],
+        "media_items:": [ ]
+      }
+    ],
+    "property_fees:": [
+      {
+        "cost:": 150,
+        "basis:": "flat",
+        "fee_type:": "MandatoryPropertyFee",
+        "guest_threshold:": null,
+        "name:": "Security Deposit",
+        "percentage:": null
+      },
+      {
+        "cost:": 150,
+        "basis:": "flat",
+        "fee_type:": "MandatoryPropertyFee",
+        "guest_threshold:": null,
+        "name:": "Cleaning Fee",
+        "percentage:": null
+      }
+    ],
+    "property_type:": "apartment",
+    "size_in_sqm:": 100,
+    "updated_at:": "2020-09-25T15:36:49.628Z",
+    "vat:": null
+  }
+}
